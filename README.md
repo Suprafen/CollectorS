@@ -9,7 +9,7 @@ Application for collectors, who want to digitalize their items.
 
 ## INSTALLATION
 Application uses cocoapods!
-For installing cocoapods on your machine check this link _> https://cocoapods.org/
+For installing cocoapods on your machine check this [link](https://cocoapods.org/)
 
 After successful instalation cocoapods, type in the terminal:
 ```
