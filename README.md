@@ -7,7 +7,7 @@ Application for collectors, who want to digitalize their items.
 - Add optional description and notes for each item
 - Share your item's image with friends through apps on your devices
 
-## INSTALLATION
+## Installation
 Application uses cocoapods!
 For installing cocoapods on your machine check this [link](https://cocoapods.org/)
 
